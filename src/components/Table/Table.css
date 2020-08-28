@@ -1,0 +1,20 @@
+.table .col {
+  cursor: pointer;
+  background-color: #bfd7ff;
+  color: white;
+}
+
+body {
+  text-transform: capitalize;
+  background-color: #e2fdff;
+}
+
+.name-cell {
+  text-transform: capitalize;
+  background-color: #788bff;
+}
+
+.data-area {
+  margin: 0 auto;
+  width: 90%;
+}
