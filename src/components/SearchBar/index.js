@@ -1,4 +1,5 @@
 import React from "react";
+import "./SearchBar.css";
 function SearchBar({ onChange }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
